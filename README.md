@@ -5,16 +5,16 @@
   <img src="https://profile-counter.glitch.me/WoutDeleu/count.svg" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoutDeleu&show_icons=true&theme=dracula)
 ### Who am I
 🚀 Tech enthusiast.\
-💪🚀 Ambitious and driven.\
+💪 Ambitious and driven.\
 🤖 Problem solver.\
 💻 Backend lover.\
 💡 Always trying to self-improve.\
-🏸🏃‍♂️🏊‍♂️ Badminton/sport fanatic.\
-🌐 Exploring the digital realm.
+🌐 Exploring the digital realm.\
+🏸🏃‍♂️🏊‍♂️ Badminton/sport fanatic.
 
 ### About Me
 🔍 I'm an 🧠 analytical thinker, 🧩 problem solver, a 🚀 tech enthusiast, and sport fanatic 🏸🏃‍♂️🏊‍♂️. If you've stumbled upon this corner of the internet, you'll get to know a bit about the things I'm passionate about and the projects I love to tinker with. Let's dive in!
