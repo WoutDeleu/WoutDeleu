@@ -1,4 +1,4 @@
-# 👋 Hey there! Welcome to my GitHub profile! 🚀
+# 👋 Hey there! I am Wout Deleu, and I'm a young Software Developer! Welcome to my GitHub profile! 🚀
 
 🔍 I'm an 🧠 analytical thinker, 🧩 problem solver, a 🚀 tech enthusiast, and sport fanatic 🏸🏃‍♂️🏊‍♂️. If you've stumbled upon this corner of the internet, you'll get to know a bit about the things I'm passionate about and the projects I love to tinker with. Let's dive in!
 
