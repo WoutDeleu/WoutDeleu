@@ -5,7 +5,11 @@
   <img src="https://profile-counter.glitch.me/WoutDeleu/count.svg" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile,HTML,JavaScript)
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile,HTML,JavaScript,TypeScript,CSS,GO,Lua,Assembly,Shell,Scala)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoutDeleu&show_icons=true&theme=dracula)
 ### Who am I
 🚀 Tech enthusiast.\
