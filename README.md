@@ -1,5 +1,13 @@
-# 👋 Hey there! I am Wout Deleu, and I'm a young Software Developer! Welcome to my GitHub profile! 🚀
+# Hey there! :wave: 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/WoutDeleu/count.svg" />
+</p>
 
+### I am Wout Deleu, and I'm a young Software Developer! Welcome to my GitHub profile! 🚀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoutDeleu&show_icons=true&theme=dracula)
+### About Me
 🔍 I'm an 🧠 analytical thinker, 🧩 problem solver, a 🚀 tech enthusiast, and sport fanatic 🏸🏃‍♂️🏊‍♂️. If you've stumbled upon this corner of the internet, you'll get to know a bit about the things I'm passionate about and the projects I love to tinker with. Let's dive in!
 
 📊 Analytical: I once made it to the finals of the Cybersecurity Challenge Belgium, which is like the World Cup for cybersecurity enthusiasts! It was a thrilling journey, testing my analytical and problem-solving skills. At university, I aced subjects that revolved around algorithms, and I genuinely enjoyed cracking complex problems. 🤓
@@ -13,3 +21,5 @@
 🏋️ Off-screen Adventures: When I'm not typing away at my keyboard or solving complex puzzles, I'm engaging in a different kind of challenge. I'm a competitive badminton player, competing at the Flemish level, and a certified trainer for the West-Flemish Youth Selection. I also love to dabble in other sports like running, swimming, and calisthenics. Keeping an active and balanced lifestyle is important to me. 🏸
 
 🌍 Feel free to explore my projects and contributions here on GitHub. If you find something that sparks your curiosity or if you'd like to collaborate on a project, don't hesitate to reach out. Let's make the digital world a more exciting place together! 🌟
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
