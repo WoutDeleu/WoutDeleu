@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/WoutDeleu/count.svg" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile,HTML,JavaScript)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoutDeleu&show_icons=true&theme=dracula)
 ### Who am I
 🚀 Tech enthusiast.\
