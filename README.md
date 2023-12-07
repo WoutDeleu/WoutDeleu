@@ -29,7 +29,7 @@
 ### About Me
 🔍 I'm an 🧠 analytical thinker, 🧩 problem solver, a 🚀 tech enthusiast, and sport fanatic 🏸🏃‍♂️🏊‍♂️. If you've stumbled upon this corner of the internet, you'll get to know a bit about the things I'm passionate about and the projects I love to tinker with. Let's dive in!
 
-📊 Analytical: I once made it to the finals of the Cybersecurity Challenge Belgium, which is like the World Cup for cybersecurity enthusiasts! It was a thrilling journey, testing my analytical and problem-solving skills. At university, I aced subjects that revolved around algorithms, and I genuinely enjoyed cracking complex problems. 🤓
+📊 Analytical: I once made it to the finals of the Cybersecurity Challenge Belgium! It was a thrilling journey, testing my analytical and problem-solving skills. At university, I aced subjects that revolved around algorithms, and I genuinely enjoyed cracking complex problems. 🤓
 
 📂 Structured: Order and structure are not just keywords in my code. Whether it's organizing my projects, planning my day, or keeping things neat and tidy, I strive for consistency and uniformity. This quality shines through in my code and my daily life. 🗂️
 
