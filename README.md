@@ -1,4 +1,4 @@
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/ea7daffa-d226-4a98-ba26-6776024d6357" /># Hey there! :wave: 
+# Hey there! :wave: 
 ### I am Wout Deleu, and I'm a young Software Developer! Welcome to my GitHub profile! 🚀
 <p align="center"> 
   Visitor count<br>
