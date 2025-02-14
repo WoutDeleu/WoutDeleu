@@ -1,4 +1,4 @@
-# Hey there! :wave: 
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/ea7daffa-d226-4a98-ba26-6776024d6357" /># Hey there! :wave: 
 ### I am Wout Deleu, and I'm a young Software Developer! Welcome to my GitHub profile! 🚀
 <p align="center"> 
   Visitor count<br>
@@ -26,6 +26,11 @@
 - C++ 🧬
 - Angular/React ⚛️
 
+**Certifications 🎓**:
+- Industrial Engineering (Electronics & ICT) - KU Leuven
+- PSM I (Professional Scrum Master I)
+- OCP (Oracle Certified Professional)
+  
 ### About Me
 🔍 I'm an 🧠 analytical thinker, 🧩 problem solver, a 🚀 tech enthusiast, and sport fanatic 🏸🏃‍♂️🏊‍♂️. If you've stumbled upon this corner of the internet, you'll get to know a bit about the things I'm passionate about and the projects I love to tinker with. Let's dive in!
 
