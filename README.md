@@ -1,9 +1,5 @@
 # Hey there! :wave: 
 ### I am Wout Deleu, and I'm a young Software Developer! Welcome to my GitHub profile! 🚀
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WoutDeleu/count.svg" />
-</p>
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula&hide=GLSL,Astro,Makefile,HTML,JavaScript,TypeScript,CSS,GO,Lua,Assembly,Shell,Scala)
